@@ -7,4 +7,4 @@ from .mjcore import register_license
 from .mjconstants import *
 from .platname_targdir import targdir
 
-register_license(get_key_path())
+# register_license(get_key_path())
